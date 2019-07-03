@@ -1,0 +1,33 @@
+.site-header {
+	background-color: #1bbc9b;
+	color: white;
+	height: 100vh;
+	font-family:monospace;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	box-shadow: black 2px 5px 5px;
+}
+.picture  {
+	
+	width:200px;
+	height: 200px;
+	border-radius: 50%;
+}
+.content
+{
+	
+	margin:10px; 
+
+
+}
+.link {
+	color:blue;
+
+}
+	
+}
+body{
+	margin: 0;
+}
